@@ -1,1 +1,0 @@
-# Di-rio-de-Bordo-Escalonamento-de-Processos-e-Chamadas-de-Sistema
